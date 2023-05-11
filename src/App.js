@@ -5,7 +5,7 @@ export default function App() {
     const list = [
         {
             url: 'https://www.youtube.com/embed/rN6nlNC9WQA?rel=0&amp;controls=0&amp;showinfo=0',
-            date: '2023-05-11 17:24:00'
+            date: '2023-05-10 18:24:00'
         },
         {
             url: 'https://www.youtube.com/embed/dVkK36KOcqs?rel=0&amp;controls=0&amp;showinfo=0',
