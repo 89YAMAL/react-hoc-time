@@ -1,8 +1,8 @@
-import React, {useState} from 'react';
+import React from 'react';
 import VideoList from './components/VideoList';
 
 export default function App() {
-    const [list, setList] = useState([
+    const list = [
         {
             url: 'https://www.youtube.com/embed/rN6nlNC9WQA?rel=0&amp;controls=0&amp;showinfo=0',
             date: '2023-05-11 17:24:00'
@@ -27,7 +27,7 @@ export default function App() {
             url: 'https://www.youtube.com/embed/TxbE79-1OSI?rel=0&amp;controls=0&amp;showinfo=0',
             date: '2017-12-02 05:24:00'
         },
-    ]);
+    ];
 
     return (
         <VideoList list={list} />
