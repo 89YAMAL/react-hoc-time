@@ -1,6 +1,6 @@
 import React from "react";
 import DateTime from "./DateTime";
-import moment from "moment/moment";
+
 
 const Hoc = (Component) => (props) => {
     const now = new Date();
