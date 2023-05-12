@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hoc-time/static/css/main.ae74bf7f.css",
+    "main.js": "/react-hoc-time/static/js/main.05f3d7ba.js",
+    "static/js/787.ecc42ae0.chunk.js": "/react-hoc-time/static/js/787.ecc42ae0.chunk.js",
+    "index.html": "/react-hoc-time/index.html",
+    "main.ae74bf7f.css.map": "/react-hoc-time/static/css/main.ae74bf7f.css.map",
+    "main.05f3d7ba.js.map": "/react-hoc-time/static/js/main.05f3d7ba.js.map",
+    "787.ecc42ae0.chunk.js.map": "/react-hoc-time/static/js/787.ecc42ae0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae74bf7f.css",
+    "static/js/main.05f3d7ba.js"
+  ]
+}
