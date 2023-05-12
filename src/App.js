@@ -1,6 +1,7 @@
 import React from 'react';
 import VideoList from './components/VideoList';
 import moment from 'moment/moment';
+import './App.css';
 
 export default function App() {
     const list = [
